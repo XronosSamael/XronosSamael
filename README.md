@@ -6,3 +6,6 @@
 ### Мои контакты:
 [![Habr](https://img.shields.io/badge/-Habr-black?style=for-the-badge&logo=Habr)](https://career.habr.com/xronossamael)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/xronos_samael)
+<div align="center" style="margin: 40px 0">
+   <img width="130px" src="https://komarev.com/ghpvc/?username=DmitryXronos3&color=blue&label=Profile+views">
+</div>
