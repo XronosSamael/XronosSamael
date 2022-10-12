@@ -5,5 +5,5 @@
 - 💬 Могу помочь с фидбэком по вашим проектам, поревьюить или дать совет.
 ### Мои контакты:
 [![Habr](https://img.shields.io/badge/-Habr-black?style=for-the-badge&logo=Habr)](https://career.habr.com/xronossamael)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/xronos_samael)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/xronossss)
 
